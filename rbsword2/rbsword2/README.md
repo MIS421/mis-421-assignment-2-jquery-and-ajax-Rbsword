@@ -20,8 +20,8 @@
   - These links can be found [here](https://developers.google.com/speed/libraries/).
   - You should use a SRI hash for each of these CDN links like the example given in class. [Srihash](srihash.org) is an excellent tool for this.
 - HTML:
-  - [ ] A header with the name of your 'search engine' (be creative).
-  - [ ] A title of the same name.
+  - [X] A header with the name of your 'search engine' (be creative).
+  - [X] A title of the same name.
   - [ ] A text box with an ID of 'query'.
   - [ ] A button with a value of 'Search' under your text box.
   - [ ] A second button that will display the current time.

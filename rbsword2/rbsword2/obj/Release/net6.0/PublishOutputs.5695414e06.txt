@@ -1,0 +1,7 @@
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\rbsword2.exe
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\rbsword2.dll
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\rbsword2.deps.json
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\rbsword2.runtimeconfig.json
+C:\Users\SaltW\source\repos\521\mis-421-assignment-2-jquery-and-ajax-Rbsword\rbsword2\rbsword2\obj\Release\net6.0\PubTmp\Out\rbsword2.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="rbsword220230214084105" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\SaltW\\source\\repos\\521\\mis-421-assignment-2-jquery-and-ajax-Rbsword\\rbsword2\\rbsword2\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
